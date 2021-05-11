@@ -1,2 +1,3 @@
 # EDA-practice
-Python Exploratory Data Analysis library practice jupyter notebooks.
+
+Exploratory Data Analysis practice jupyter notebooks.
